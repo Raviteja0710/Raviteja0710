@@ -1,42 +1,97 @@
-<h1 align="center">Hi 👋, I'm RaviTeja</h1>
-<h3 align="center">A pas📊 Aspiring Data Analyst | Turning data into meaningful insightssionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Ravi Teja</h1>
+<h3 align="center">📊 Data Analyst | Turning Data into Insights</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raviteja0710&label=Profile%20views&color=0e75b6&style=flat" alt="raviteja0710" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raviteja0710" alt="raviteja0710" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@raviteja_710" target="blank"><img src="https://img.shields.io/twitter/follow/@raviteja_710?logo=twitter&style=for-the-badge" alt="@raviteja_710" /></a> </p>
-
-- 🔭 I’m currently working on [Swiggy_Dashboard](https://github.com/Raviteja0710/Swiggy_DashBoard_Excel)
-
-- 🌱 I’m currently learning **Advanced Power BI, SQL Optimization, Python for Data Analysis, Statistics for Data Science**
-
-- 👯 I’m looking to collaborate on [Data Analysis & Visualization Projects (Excel / Power BI / Python)](https://github.com/Raviteja0710)
-
-- 🤝 I’m looking for help with **Real-world SQL & Python Case Studies**
-
-- 💬 Ask me about **Excel, Power BI, Python, Pandas, MySQL, Data Visualization**
-
-- 📫 How to reach me **raviteja.challa017@gmail.com**
-
-- ⚡ Fun fact **I can spend hours cleaning data… and still enjoy it 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@raviteja_710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@raviteja_710" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/challa raviteja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="challa raviteja" height="30" width="40" /></a>
-<a href="https://kaggle.com/raviteja017" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="raviteja017" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/raviteja_0710" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raviteja_0710" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@raviteja_challa3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@raviteja_challa3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raviteja_0710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raviteja_0710" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/@ravitejacoprr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@ravitejacoprr" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI;Data+Visualization+Enthusiast;Always+Learning+New+Skills" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raviteja0710&show_icons=true&locale=en&layout=compact" alt="raviteja0710" /></p>
+## 🚀 About Me
+- 📊 Passionate **Data Analyst**
+- 🐍 Python & SQL Enthusiast  
+- 📈 Love dashboards & visualizations  
+- 🤖 Exploring **AI Tools**  
+- 🌱 Currently learning advanced analytics  
+- 📫 Mail me: **raviteja.challa017@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raviteja0710&show_icons=true&locale=en" alt="raviteja0710" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raviteja0710&" alt="raviteja0710" /></p>
+## 🌐 Connect With Me
+<p align="left">
+<a href="mailto:raviteja.challa017@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Raviteja0710"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ch-ravi-teja-b00139367/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/raviteja_0710/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/profile/raviteja_challa3"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://x.com/RaviTeja_710"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ Skills & Tools
+
+### 👨‍💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github"/>
+</p>
+
+### 📊 Data Analysis
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=plotly&logoColor=black"/>
+<img src="https://img.shields.io/badge/Seaborn-4c72b0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-orange?style=for-the-badge"/>
+</p>
+
+### 📈 BI Tools
+<p>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau"/>
+</p>
+
+### 🤖 AI Tools
+<p>
+<img src="https://img.shields.io/badge/AI-Tools-blueviolet?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Raviteja0710&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raviteja0710&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raviteja0710&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 Badges
+<p>
+<img src="https://komarev.com/ghpvc/?username=Raviteja0710&label=Profile%20views&color=blue"/>
+<img src="https://img.shields.io/github/followers/Raviteja0710?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/stars/Raviteja0710?label=Stars&style=social"/>
+</p>
+
+---
+
+## 🧠 Fun Facts
+- 📊 I enjoy solving real-world data problems  
+- 📈 I love building dashboards from raw data  
+- 🧠 I practice SQL & analytics daily  
+- ☕ Coffee + data = perfect combo  
+- 🎯 Goal: Become top Data Analyst  
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## ✨ Quote
+> “Data is the new oil, but insights are the real fuel.”
